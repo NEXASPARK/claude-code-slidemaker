@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Output
+output/*.pptx
+
+# package.json
+package.json
+package-lock.json
